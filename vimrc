@@ -1,4 +1,4 @@
-" File              : .vimrc
+" File              : vimrc
 " Author            : Jan Claasen <janclaasen@gmail.com>
 " Date              : 14.03.2018
 " Last Modified Date: 14.03.2018
